@@ -1,16 +1,22 @@
-## Hi there 👋
+# silentwolf40150
 
-<!--
-**silentwolf40150/silentwolf40150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm just a guy who likes tinkering with code.
 
-Here are some ideas to get you started:
+### About me
+- Currently learning and building small projects in my free time
+- Interested in backend stuff and automation
+- Still figuring things out as I go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Python
+- JavaScript / TypeScript
+- Git & Linux
+- Occasional Node.js and SQL
+
+### Projects
+Nothing major to show yet — mostly experiments and learning repos.  
+Will update this section when something worth sharing shows up.
+
+---
+
+Feel free to check out my repos or drop a message if you want to chat about code.
